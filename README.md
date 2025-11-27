@@ -17,6 +17,8 @@ Requirements:
 <p align="center">
 <img src="Small_Bottle_Adapter_Iso1.png" width="220"> 
 <img src="Small_Bottle_Adapter_Iso2.png" width="220">
+</p>  
+<p align="center">
 <img src="IMG_20251123_094117.jpg" width="220">
 <img src="IMG_20251123_094228.jpg" width="220">
 </p>  
@@ -28,6 +30,8 @@ Requirements:
 <p align="center">
 <img src="Syringe-Adapter_Iso1.png" width="220"> 
 <img src="Syringe-Adapter_Iso2.png" width="220">
+</p>  
+<p align="center">
 <img src="IMG_20251127_161852.jpg" width="220">
 <img src="IMG_20251127_161919.jpg" width="220">
 </p>  
