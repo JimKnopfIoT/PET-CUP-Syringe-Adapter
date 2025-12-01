@@ -35,3 +35,16 @@ Requirements:
 <img src="IMG_20251127_161852.jpg" width="220">
 <img src="IMG_20251127_161919.jpg" width="220">
 </p>  
+
+# Glue Bottle Syringe Needle Adapter
+
+I added a syringe needle adapter for glue bottles.
+
+<p align="center">
+<img src="IMG_20251201_152518.jpg" width="220">
+<img src="IMG_20251201_152529.jpg" width="220">
+</p>  
+<p align="center">
+<img src="IMG_20251201_152550.jpg" width="220">
+<img src="IMG_20251201_152624.jpg" width="220">
+</p>  
